@@ -1,0 +1,142 @@
+--DROP TABLE Questions;
+-- CREATE TABLE
+--     IF NOT EXISTS Questions (
+--         id INTEGER PRIMARY KEY,
+--         question TEXT,
+--         answ1 TEXT,
+--         answ2 TEXT,
+--         answ3 TEXT,
+--         answ4 TEXT,
+--         answ_c TEXT
+--     );
+-- INSERT INTO
+--     Questions
+-- VALUES
+--     (
+--         1,
+--         'How much did the 100 year old war last?',
+--         '100 years',
+--         '99 years',
+--         '113 years',
+--         '116 years',
+--         'd'
+--     );
+--update Questions set answ_c = 'c' where id = '10';
+-- INSERT INTO
+--     Questions
+-- VALUES
+--     (
+--         2,
+--         'What is the capital of Russia?',
+--         'London',
+--         'Moskow',
+--         'Minsk',
+--         'Belarus',
+--         'Moskow'
+--     );
+-- INSERT INTO
+--     Questions
+-- VALUES
+--     (
+--         3,
+--         'How many months have 28 days?',
+--         '11',
+--         '1',
+--         'All of them',
+--         'None',
+--         'All of them'
+--     );
+-- INSERT INTO
+--     Questions
+-- VALUES
+--     (
+--         4,
+--         'On what continent is th Amazon river?',
+--         'South America',
+--         'North America',
+--         'Africa',
+--         'Asia',
+--         'South America'
+--     );
+-- INSERT INTO
+--     Questions
+-- VALUES
+--     (
+--         5,
+--         'What color is the black box of an airplane?',
+--         'black',
+--         'yellow',
+--         'orange',
+--         'red',
+--         'orange'
+--     );
+-- INSERT INTO
+--     Questions
+-- VALUES
+--     (
+--         6,
+--         'Which planet was called `Luceafarul`?',
+--         'Mars',
+--         'Venus',
+--         'Earth',
+--         'Saturn',
+--         'Venus'
+--     );
+-- INSERT INTO
+--     Questions
+-- VALUES
+--     (
+--         7,
+--         'In what capital would you find The Little Mermaid statue?',
+--         'Copenhagen',
+--         'Berlin',
+--         'Bucharest',
+--         'Nepal',
+--         'Copenhagen'
+--     );
+-- INSERT INTO
+--     Questions
+-- VALUES
+--     (
+--         8,
+--         'How many stars are on the Chinese flag?',
+--         '6',
+--         '5',
+--         '10',
+--         '2',
+--         '5'
+--     );
+-- INSERT INTO
+--     Questions
+-- VALUES
+--     (
+--         9,
+--         'Who dies first in Lord Of The Rings?',
+--         'Frodo',
+--         'Dumbledore',
+--         'Bilbo Baggins',
+--         'None of them',
+--         'None of them'
+--     );
+-- INSERT INTO
+--     Questions
+-- VALUES
+--     (
+--         10,
+--         'How many fingers does a fish finger have?',
+--         '2',
+--         '10',
+--         '1',
+--         '16',
+--         '1'
+--     );
+-- CREATE TABLE
+--     IF NOT EXISTS users (
+--         id INTEGER,
+--         username TEXT PRIMARY KEY,
+--         password TEXT
+--     );
+-- delete from users
+-- where
+--     id = '1';
+--drop table users;
